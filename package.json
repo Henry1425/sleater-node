@@ -1,0 +1,19 @@
+{
+  "name": "sleater-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henry1425/sleater-node.git"
+  },
+  "author": "Henry Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henry1425/sleater-node/issues"
+  },
+  "homepage": "https://github.com/Henry1425/sleater-node#readme"
+}
